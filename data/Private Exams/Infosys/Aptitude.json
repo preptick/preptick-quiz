@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HighText Transfer Protocol",
+      "HyperText Translate Protocol",
+      "HyperText Transfer Plot"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  }
+]
