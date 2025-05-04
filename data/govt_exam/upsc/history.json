@@ -1,14 +1,605 @@
 [
   {
     "id": 1,
-    "question": "Who was the first President of India?",
-    "options": ["Rajendra Prasad", "Nehru", "Gandhi", "Patel"],
-    "answer": "Rajendra Prasad"
+    "question": "Who was the founder of the Maurya Empire?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Harshavardhana"],
+    "answer": "Chandragupta Maurya"
   },
   {
     "id": 2,
-    "question": "When did India become independent?",
-    "options": ["1945", "1946", "1947", "1950"],
-    "answer": "1947"
+    "question": "In which year did the Battle of Plassey take place?",
+    "options": ["1757", "1761", "1857", "1707"],
+    "answer": "1757"
+  },
+  {
+    "id": 3,
+    "question": "Who was the first woman ruler of India?",
+    "options": ["Rani Lakshmi Bai", "Razia Sultana", "Indira Gandhi", "Ahilyabai Holkar"],
+    "answer": "Razia Sultana"
+  },
+  {
+    "id": 4,
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "id": 5,
+    "question": "Who led the Salt March in 1930?",
+    "options": ["Subhash Chandra Bose", "Bhagat Singh", "Jawaharlal Nehru", "Mahatma Gandhi"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 6,
+    "question": "Which act transferred the power from East India Company to the British Crown?",
+    "options": ["Regulating Act", "Pitt's India Act", "Government of India Act 1858", "Charter Act 1833"],
+    "answer": "Government of India Act 1858"
+  },
+  {
+    "id": 7,
+    "question": "Who was the last Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Warren Hastings", "Lord Curzon"],
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "id": 8,
+    "question": "Where was the first session of the Indian National Congress held?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Ahmedabad"],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 9,
+    "question": "Who wrote the book 'Discovery of India'?",
+    "options": ["B. R. Ambedkar", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 10,
+    "question": "When did the Jallianwala Bagh massacre take place?",
+    "options": ["1917", "1919", "1921", "1925"],
+    "answer": "1919"
+  },
+  {
+    "id": 11,
+    "question": "Who was known as the 'Iron Man of India'?",
+    "options": ["Bhagat Singh", "Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Lal Bahadur Shastri"],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 12,
+    "question": "Which revolution is associated with 'Inquilab Zindabad'?",
+    "options": ["Green Revolution", "Non-Cooperation Movement", "Quit India Movement", "Indian Independence Movement"],
+    "answer": "Indian Independence Movement"
+  },
+  {
+    "id": 13,
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Jawaharlal Nehru", "Dr. Rajendra Prasad"],
+    "answer": "Lord Mountbatten"
+  },
+  {
+    "id": 14,
+    "question": "Who established the Ramakrishna Mission?",
+    "options": ["Dayananda Saraswati", "Swami Vivekananda", "Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar"],
+    "answer": "Swami Vivekananda"
+  },
+  {
+    "id": 15,
+    "question": "Which Indian freedom fighter was known as 'Netaji'?",
+    "options": ["Jawaharlal Nehru", "Sardar Patel", "Subhash Chandra Bose", "Bhagat Singh"],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "id": 16,
+    "question": "Who founded the Gupta Empire?",
+    "options": ["Chandragupta I", "Samudragupta", "Chandragupta Maurya", "Vishnugupta"],
+    "answer": "Chandragupta I"
+  },
+  {
+    "id": 17,
+    "question": "When was the Quit India Movement launched?",
+    "options": ["1930", "1935", "1942", "1947"],
+    "answer": "1942"
+  },
+  {
+    "id": 18,
+    "question": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+    "options": ["Chandragupta", "Ashoka", "Harsha", "Bimbisara"],
+    "answer": "Ashoka"
+  },
+  {
+    "id": 19,
+    "question": "Who coined the term 'Swaraj'?",
+    "options": ["Bal Gangadhar Tilak", "Mahatma Gandhi", "Subhash Chandra Bose", "Gopal Krishna Gokhale"],
+    "answer": "Bal Gangadhar Tilak"
+  },
+  {
+    "id": 20,
+    "question": "Which Portuguese explorer discovered the sea route to India?",
+    "options": ["Columbus", "Magellan", "Vasco da Gama", "Bartholomew Diaz"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "id": 21,
+    "question": "Who was the first President of independent India?",
+    "options": ["Rajendra Prasad", "Jawaharlal Nehru", "Sardar Patel", "Sarvepalli Radhakrishnan"],
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "id": 22,
+    "question": "Which ancient university was located in Bihar and was a great center of learning?",
+    "options": ["Nalanda", "Takshashila", "Ujjain", "Vikramashila"],
+    "answer": "Nalanda"
+  },
+  {
+    "id": 23,
+    "question": "Who was the last Viceroy of British India?",
+    "options": ["Lord Linlithgow", "Lord Wavell", "Lord Mountbatten", "Lord Irwin"],
+    "answer": "Lord Mountbatten"
+  },
+  {
+    "id": 24,
+    "question": "In which year did the Indian Rebellion (First War of Independence) occur?",
+    "options": ["1757", "1806", "1857", "1905"],
+    "answer": "1857"
+  },
+  {
+    "id": 25,
+    "question": "Who led the Revolt of 1857 in Kanpur?",
+    "options": ["Rani Lakshmi Bai", "Nana Sahib", "Bahadur Shah Zafar", "Tantia Tope"],
+    "answer": "Nana Sahib"
+  },
+  {
+    "id": 26,
+    "question": "What was the capital of the Maurya Empire?",
+    "options": ["Ujjain", "Pataliputra", "Varanasi", "Taxila"],
+    "answer": "Pataliputra"
+  },
+  {
+    "id": 27,
+    "question": "Which freedom fighter gave the slogan 'Do or Die'?",
+    "options": ["Mahatma Gandhi", "Bhagat Singh", "Lala Lajpat Rai", "Jawaharlal Nehru"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 28,
+    "question": "Who introduced the Permanent Settlement in Bengal?",
+    "options": ["Lord Dalhousie", "Warren Hastings", "Lord Wellesley", "Lord Cornwallis"],
+    "answer": "Lord Cornwallis"
+  },
+  {
+    "id": 29,
+    "question": "Who was the first Sultan of Delhi?",
+    "options": ["Qutb-ud-din Aibak", "Iltutmish", "Balban", "Alauddin Khilji"],
+    "answer": "Qutb-ud-din Aibak"
+  },
+  {
+    "id": 30,
+    "question": "Which Indian freedom fighter was hanged at the age of 23?",
+    "options": ["Chandra Shekhar Azad", "Subhash Chandra Bose", "Bhagat Singh", "Sukhdev"],
+    "answer": "Bhagat Singh"
+  },
+  {
+    "id": 31,
+    "question": "The Civil Disobedience Movement was launched in which year?",
+    "options": ["1920", "1928", "1930", "1935"],
+    "answer": "1930"
+  },
+  {
+    "id": 32,
+    "question": "Who was the founder of the Sikh Empire?",
+    "options": ["Guru Nanak", "Guru Gobind Singh", "Maharaja Ranjit Singh", "Banda Singh Bahadur"],
+    "answer": "Maharaja Ranjit Singh"
+  },
+  {
+    "id": 33,
+    "question": "Who was the first Indian to join the Indian Civil Services?",
+    "options": ["Dadabhai Naoroji", "Satyendranath Tagore", "Raja Ram Mohan Roy", "Bipin Chandra Pal"],
+    "answer": "Satyendranath Tagore"
+  },
+  {
+    "id": 34,
+    "question": "The Swadeshi Movement was a response to which event?",
+    "options": ["Partition of Bengal", "Jallianwala Bagh Massacre", "Simon Commission", "Salt March"],
+    "answer": "Partition of Bengal"
+  },
+  {
+    "id": 35,
+    "question": "Who founded the Arya Samaj?",
+    "options": ["Dayananda Saraswati", "Swami Vivekananda", "Raja Ram Mohan Roy", "Bal Gangadhar Tilak"],
+    "answer": "Dayananda Saraswati"
+  },
+  {
+    "id": 36,
+    "question": "Who was the first Indian to become a member of the British Parliament?",
+    "options": ["Bipin Chandra Pal", "Dadabhai Naoroji", "Gopal Krishna Gokhale", "Surendranath Banerjee"],
+    "answer": "Dadabhai Naoroji"
+  },
+  {
+    "id": 37,
+    "question": "In which year did India become a republic?",
+    "options": ["1947", "1950", "1952", "1956"],
+    "answer": "1950"
+  },
+  {
+    "id": 38,
+    "question": "Who was known as the 'Father of Indian Renaissance'?",
+    "options": ["Rabindranath Tagore", "Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar"],
+    "answer": "Raja Ram Mohan Roy"
+  },
+  {
+    "id": 39,
+    "question": "Which empire is associated with the famous ruler Harshavardhana?",
+    "options": ["Maurya", "Gupta", "Vardhana", "Kushan"],
+    "answer": "Vardhana"
+  },
+  {
+    "id": 40,
+    "question": "Who among the following was not associated with the Indian National Movement?",
+    "options": ["Mangal Pandey", "Karl Marx", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+    "answer": "Karl Marx"
+  },
+  {
+    "id": 41,
+    "question": "Which movement is associated with the slogan 'Simon Go Back'?",
+    "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Quit India Movement", "Simon Commission Protests"],
+    "answer": "Simon Commission Protests"
+  },
+  {
+    "id": 42,
+    "question": "Which dynasty built the famous Brihadeeswarar Temple in Tamil Nadu?",
+    "options": ["Chola", "Pallava", "Cheras", "Pandyas"],
+    "answer": "Chola"
+  },
+  {
+    "id": 43,
+    "question": "Who was the first Vice President of India?",
+    "options": ["Dr. S. Radhakrishnan", "Zakir Hussain", "Rajendra Prasad", "C. Rajagopalachari"],
+    "answer": "Dr. S. Radhakrishnan"
+  },
+  {
+    "id": 44,
+    "question": "Who gave the slogan 'Give me blood and I shall give you freedom'?",
+    "options": ["Mahatma Gandhi", "Subhash Chandra Bose", "Bhagat Singh", "Jawaharlal Nehru"],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "id": 45,
+    "question": "Where was Mahatma Gandhi born?",
+    "options": ["Rajkot", "Porbandar", "Ahmedabad", "Vadodara"],
+    "answer": "Porbandar"
+  },
+  {
+    "id": 46,
+    "question": "Who was the first Muslim President of India?",
+    "options": ["Zakir Hussain", "Abdul Kalam", "Fakhruddin Ali Ahmed", "Mohammad Hidayatullah"],
+    "answer": "Zakir Hussain"
+  },
+  {
+    "id": 47,
+    "question": "Who was the leader of the 1857 revolt in Jhansi?",
+    "options": ["Razia Sultana", "Rani Lakshmi Bai", "Begum Hazrat Mahal", "Chand Bibi"],
+    "answer": "Rani Lakshmi Bai"
+  },
+  {
+    "id": 48,
+    "question": "Who formed the Azad Hind Fauj?",
+    "options": ["Bhagat Singh", "Subhash Chandra Bose", "Jawaharlal Nehru", "Chandrashekhar Azad"],
+    "answer": "Subhash Chandra Bose"
+  },
+  {
+    "id": 49,
+    "question": "Which battle marked the beginning of British rule in India?",
+    "options": ["Battle of Buxar", "Battle of Haldighati", "Battle of Plassey", "Third Battle of Panipat"],
+    "answer": "Battle of Plassey"
+  },
+  {
+    "id": 50,
+    "question": "Who discovered the Indus Valley Civilization?",
+    "options": ["John Marshall", "Alexander Cunningham", "Mortimer Wheeler", "R. D. Banerji"],
+    "answer": "R. D. Banerji"
+  },
+  {
+    "id": 51,
+    "question": "Who was the founder of the Maurya Dynasty?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Bimbisara"],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "id": 52,
+    "question": "Who wrote the Arthashastra?",
+    "options": ["Kautilya", "Kalidasa", "Chanakya", "Vishnu Sharma"],
+    "answer": "Kautilya"
+  },
+  {
+    "id": 53,
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+    "answer": "Shah Jahan"
+  },
+  {
+    "id": 54,
+    "question": "In which year did the Jallianwala Bagh Massacre take place?",
+    "options": ["1917", "1919", "1921", "1923"],
+    "answer": "1919"
+  },
+  {
+    "id": 55,
+    "question": "Who was the founder of the Gupta Empire?",
+    "options": ["Samudragupta", "Chandragupta I", "Skandagupta", "Harshavardhana"],
+    "answer": "Chandragupta I"
+  },
+  {
+    "id": 56,
+    "question": "Which Gupta ruler was known as the 'Napoleon of India'?",
+    "options": ["Chandragupta I", "Chandragupta II", "Samudragupta", "Skandagupta"],
+    "answer": "Samudragupta"
+  },
+  {
+    "id": 57,
+    "question": "The famous Iron Pillar is located in which city?",
+    "options": ["Agra", "Delhi", "Patna", "Jaipur"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 58,
+    "question": "Who was the first woman ruler of Delhi?",
+    "options": ["Rani Lakshmi Bai", "Raziyya Sultana", "Chand Bibi", "Nur Jahan"],
+    "answer": "Raziyya Sultana"
+  },
+  {
+    "id": 59,
+    "question": "Who wrote 'Indica' describing the Mauryan empire?",
+    "options": ["Megasthenes", "Faxian", "Hiuen Tsang", "Al-Biruni"],
+    "answer": "Megasthenes"
+  },
+  {
+    "id": 60,
+    "question": "Which king was responsible for the spread of Buddhism outside India?",
+    "options": ["Ashoka", "Kanishka", "Harsha", "Samudragupta"],
+    "answer": "Ashoka"
+  },
+  {
+    "id": 61,
+    "question": "Who was the first Indian ruler to accept Islam?",
+    "options": ["Tipu Sultan", "Muhammad Ghori", "Iltutmish", "Malik Kafur"],
+    "answer": "Malik Kafur"
+  },
+  {
+    "id": 62,
+    "question": "Who was the founder of the Mughal Empire?",
+    "options": ["Babur", "Akbar", "Humayun", "Aurangzeb"],
+    "answer": "Babur"
+  },
+  {
+    "id": 63,
+    "question": "Where did Mahatma Gandhi launch his first Satyagraha in India?",
+    "options": ["Champaran", "Ahmedabad", "Kheda", "Dandi"],
+    "answer": "Champaran"
+  },
+  {
+    "id": 64,
+    "question": "Who was the founder of the Indian National Congress?",
+    "options": ["Dadabhai Naoroji", "A. O. Hume", "Bipin Chandra Pal", "W. C. Banerjee"],
+    "answer": "A. O. Hume"
+  },
+  {
+    "id": 65,
+    "question": "Who was the first Indian Governor-General of independent India?",
+    "options": ["Rajendra Prasad", "Jawaharlal Nehru", "C. Rajagopalachari", "B. R. Ambedkar"],
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "id": 66,
+    "question": "Where did Buddha attain enlightenment?",
+    "options": ["Kushinagar", "Lumbini", "Bodh Gaya", "Sarnath"],
+    "answer": "Bodh Gaya"
+  },
+  {
+    "id": 67,
+    "question": "Who composed the national song 'Vande Mataram'?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subramania Bharati", "Bipin Chandra Pal"],
+    "answer": "Bankim Chandra Chatterjee"
+  },
+  {
+    "id": 68,
+    "question": "Which historical place is known for the rock-cut caves and murals?",
+    "options": ["Ajanta", "Nalanda", "Konark", "Ellora"],
+    "answer": "Ajanta"
+  },
+  {
+    "id": 69,
+    "question": "Which Mughal ruler banned music and dancing in his court?",
+    "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+    "answer": "Aurangzeb"
+  },
+  {
+    "id": 70,
+    "question": "Who started the Home Rule Movement in India?",
+    "options": ["Mahatma Gandhi", "Annie Besant", "Bal Gangadhar Tilak", "Jawaharlal Nehru"],
+    "answer": "Annie Besant"
+  },
+  {
+    "id": 71,
+    "question": "Where did the famous Battle of Panipat (1526) take place?",
+    "options": ["Delhi", "Agra", "Panipat", "Karnal"],
+    "answer": "Panipat"
+  },
+  {
+    "id": 72,
+    "question": "Which ruler is associated with the construction of Qutub Minar?",
+    "options": ["Alauddin Khilji", "Iltutmish", "Qutb-ud-din Aibak", "Balban"],
+    "answer": "Qutb-ud-din Aibak"
+  },
+  {
+    "id": 73,
+    "question": "Who was the Nawab of Bengal during the Battle of Plassey?",
+    "options": ["Mir Jafar", "Siraj-ud-Daulah", "Shuja-ud-Daulah", "Tipu Sultan"],
+    "answer": "Siraj-ud-Daulah"
+  },
+  {
+    "id": 74,
+    "question": "What was the primary objective of the Dandi March?",
+    "options": ["Oppose British taxes", "Break salt law", "Protest Jallianwala Bagh", "Demand Swaraj"],
+    "answer": "Break salt law"
+  },
+  {
+    "id": 75,
+    "question": "Which empire is associated with the ruler Krishnadevaraya?",
+    "options": ["Maurya", "Chola", "Vijayanagara", "Mughal"],
+    "answer": "Vijayanagara"
+  },
+  {
+    "id": 76,
+    "question": "What was the capital of the Mughal Empire under Akbar?",
+    "options": ["Delhi", "Agra", "Fatehpur Sikri", "Lahore"],
+    "answer": "Fatehpur Sikri"
+  },
+  {
+    "id": 77,
+    "question": "Who abolished the Sati system in India?",
+    "options": ["Swami Vivekananda", "Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Dayananda Saraswati"],
+    "answer": "Raja Ram Mohan Roy"
+  },
+  {
+    "id": 78,
+    "question": "Which session of the Congress adopted the 'Poorna Swaraj' resolution?",
+    "options": ["1927, Madras", "1929, Lahore", "1931, Karachi", "1942, Bombay"],
+    "answer": "1929, Lahore"
+  },
+  {
+    "id": 79,
+    "question": "Where was the first session of the Indian National Congress held?",
+    "options": ["Bombay", "Delhi", "Calcutta", "Allahabad"],
+    "answer": "Bombay"
+  },
+  {
+    "id": 80,
+    "question": "Who was known as the ‘Grand Old Man of India’?",
+    "options": ["Mahatma Gandhi", "Dadabhai Naoroji", "Bal Gangadhar Tilak", "Jawaharlal Nehru"],
+    "answer": "Dadabhai Naoroji"
+  },
+  {
+    "id": 81,
+    "question": "Which Mughal ruler introduced the Mansabdari system?",
+    "options": ["Babur", "Akbar", "Aurangzeb", "Jahangir"],
+    "answer": "Akbar"
+  },
+  {
+    "id": 82,
+    "question": "Who was the first Indian to be elected as the president of the Indian National Congress?",
+    "options": ["Badruddin Tyabji", "Dadabhai Naoroji", "W. C. Banerjee", "Gopal Krishna Gokhale"],
+    "answer": "W. C. Banerjee"
+  },
+  {
+    "id": 83,
+    "question": "Who led the Salt Satyagraha in Tamil Nadu?",
+    "options": ["Rajaji", "Subramania Bharati", "K. Kamaraj", "V. O. Chidambaram"],
+    "answer": "Rajaji"
+  },
+  {
+    "id": 84,
+    "question": "Who was the British PM when India gained independence?",
+    "options": ["Winston Churchill", "Clement Attlee", "Neville Chamberlain", "Harold Wilson"],
+    "answer": "Clement Attlee"
+  },
+  {
+    "id": 85,
+    "question": "The Khilafat Movement was led by which brothers?",
+    "options": ["Ali and Abbas", "Khilji and Babur", "Maulana Azad and Nehru", "Ali Brothers"],
+    "answer": "Ali Brothers"
+  },
+  {
+    "id": 86,
+    "question": "Which port was the main center of the Indus Valley Civilization?",
+    "options": ["Lothal", "Mohenjo-Daro", "Kalibangan", "Dholavira"],
+    "answer": "Lothal"
+  },
+  {
+    "id": 87,
+    "question": "The Quit India Movement started in which year?",
+    "options": ["1930", "1935", "1942", "1947"],
+    "answer": "1942"
+  },
+  {
+    "id": 88,
+    "question": "Which Sultan shifted the capital from Delhi to Daulatabad?",
+    "options": ["Iltutmish", "Balban", "Muhammad bin Tughlaq", "Alauddin Khilji"],
+    "answer": "Muhammad bin Tughlaq"
+  },
+  {
+    "id": 89,
+    "question": "Which ancient Indian lawgiver wrote Manusmriti?",
+    "options": ["Kautilya", "Manu", "Vatsyayana", "Panini"],
+    "answer": "Manu"
+  },
+  {
+    "id": 90,
+    "question": "Who founded the Bahmani Kingdom?",
+    "options": ["Alauddin Bahman Shah", "Muhammad bin Tughlaq", "Balban", "Babur"],
+    "answer": "Alauddin Bahman Shah"
+  },
+  {
+    "id": 91,
+    "question": "Who was the last Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Jawaharlal Nehru", "Dr. Rajendra Prasad"],
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "id": 92,
+    "question": "Which treaty ended the First Anglo-Maratha War?",
+    "options": ["Treaty of Salbai", "Treaty of Purandar", "Treaty of Bassein", "Treaty of Surat"],
+    "answer": "Treaty of Salbai"
+  },
+  {
+    "id": 93,
+    "question": "Who was the founder of the Chola dynasty?",
+    "options": ["Vijayalaya Chola", "Rajaraja Chola", "Rajendra Chola", "Karikala Chola"],
+    "answer": "Vijayalaya Chola"
+  },
+  {
+    "id": 94,
+    "question": "Which Indian freedom fighter is known as 'Lokmanya'?",
+    "options": ["Gopal Krishna Gokhale", "Bipin Chandra Pal", "Bal Gangadhar Tilak", "Subhas Chandra Bose"],
+    "answer": "Bal Gangadhar Tilak"
+  },
+  {
+    "id": 95,
+    "question": "Which revolt is known as the Sepoy Mutiny?",
+    "options": ["Revolt of 1857", "Revolt of 1831", "Quit India Movement", "Civil Disobedience Movement"],
+    "answer": "Revolt of 1857"
+  },
+  {
+    "id": 96,
+    "question": "Who was the leader of the Indigo Revolt in Bengal?",
+    "options": ["Digambar Biswas", "Kunwar Singh", "Mangal Pandey", "Chittaranjan Das"],
+    "answer": "Digambar Biswas"
+  },
+  {
+    "id": 97,
+    "question": "Who discovered the sea route to India?",
+    "options": ["Christopher Columbus", "Marco Polo", "Ferdinand Magellan", "Vasco da Gama"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "id": 98,
+    "question": "Which Indian ruler was defeated in the Battle of Talikota?",
+    "options": ["Raja Raja Chola", "Krishnadevaraya", "Ramaraya", "Harihara I"],
+    "answer": "Ramaraya"
+  },
+  {
+    "id": 99,
+    "question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+    "options": ["Sarojini Naidu", "Indira Gandhi", "Annie Besant", "Vijaya Lakshmi Pandit"],
+    "answer": "Annie Besant"
+  },
+  {
+    "id": 100,
+    "question": "Which Indian social reformer founded the Arya Samaj?",
+    "options": ["Raja Ram Mohan Roy", "Swami Dayananda Saraswati", "Ishwar Chandra Vidyasagar", "Swami Vivekananda"],
+    "answer": "Swami Dayananda Saraswati"
   }
 ]
+
+
+
