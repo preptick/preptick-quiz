@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. Zakir Husain", "Dr. Sarvepalli Radhakrishnan", "Jawaharlal Nehru"],
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "id": 2,
+    "question": "Which Article of the Indian Constitution deals with the abolition of untouchability?",
+    "options": ["Article 15", "Article 17", "Article 19", "Article 21"],
+    "answer": "Article 17"
+  },
+  {
+    "id": 3,
+    "question": "Who is considered the father of the Indian Constitution?",
+    "options": ["Jawaharlal Nehru", "B. R. Ambedkar", "Mahatma Gandhi", "Sardar Patel"],
+    "answer": "B. R. Ambedkar"
+  },
+  {
+    "id": 4,
+    "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+    "options": ["Part IV", "Part V", "Part VI", "Part III"],
+    "answer": "Part IV"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a feature of the Indian Constitution?",
+    "options": ["Federal system with a strong central government", "Single citizenship", "Secularism", "Unitary system of government"],
+    "answer": "Unitary system of government"
+  },
+  {
+    "id": 6,
+    "question": "Who has the power to dissolve the Lok Sabha?",
+    "options": ["Prime Minister", "President", "Speaker of the Lok Sabha", "Rajya Sabha"],
+    "answer": "President"
+  },
+  {
+    "id": 7,
+    "question": "The concept of Judicial Review in India was borrowed from which country?",
+    "options": ["USA", "UK", "Australia", "Canada"],
+    "answer": "USA"
+  },
+  {
+    "id": 8,
+    "question": "Who appoints the Chief Justice of India?",
+    "options": ["President", "Prime Minister", "Parliament", "Supreme Court Collegium"],
+    "answer": "President"
+  },
+  {
+    "id": 9,
+    "question": "How many members can the Rajya Sabha have at most?",
+    "options": ["250", "245", "200", "500"],
+    "answer": "250"
+  },
+  {
+    "id": 10,
+    "question": "The Indian Parliament consists of how many houses?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Two"
+  },
+  {
+    "id": 11,
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "options": ["President of India", "Prime Minister of India", "Vice-President of India", "Speaker of Lok Sabha"],
+    "answer": "Vice-President of India"
+  },
+  {
+    "id": 12,
+    "question": "Which is the highest court in India?",
+    "options": ["High Court", "Supreme Court", "District Court", "Sessions Court"],
+    "answer": "Supreme Court"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is NOT a function of the Rajya Sabha?",
+    "options": ["Passing bills", "Introducing bills", "Conducting elections", "Representing states"],
+    "answer": "Conducting elections"
+  },
+  {
+    "id": 14,
+    "question": "Who can remove the President of India from office?",
+    "options": ["Prime Minister", "Lok Sabha", "Rajya Sabha", "Both Lok Sabha and Rajya Sabha"],
+    "answer": "Both Lok Sabha and Rajya Sabha"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a Fundamental Right in the Indian Constitution?",
+    "options": ["Right to Property", "Right to Vote", "Right to Equality", "Right to Education"],
+    "answer": "Right to Equality"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is the longest Article in the Indian Constitution?",
+    "options": ["Article 21", "Article 15", "Article 368", "Article 1"],
+    "answer": "Article 368"
+  },
+  {
+    "id": 17,
+    "question": "What is the maximum term for the Lok Sabha?",
+    "options": ["4 years", "5 years", "6 years", "7 years"],
+    "answer": "5 years"
+  },
+  {
+    "id": 18,
+    "question": "Who is responsible for the preparation of the electoral rolls for the Lok Sabha and Assembly elections?",
+    "options": ["Election Commission of India", "Supreme Court", "President of India", "Prime Minister"],
+    "answer": "Election Commission of India"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a Directive Principle of State Policy?",
+    "options": ["Right to Education", "Right to Information", "Provision of Adequate Livelihood", "Freedom of Speech"],
+    "answer": "Provision of Adequate Livelihood"
+  },
+  {
+    "id": 20,
+    "question": "Which Article of the Indian Constitution deals with the amendment process?",
+    "options": ["Article 368", "Article 32", "Article 21", "Article 14"],
+    "answer": "Article 368"
+  },
+  {
+    "id": 21,
+    "question": "Who was the first woman President of India?",
+    "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sushma Swaraj"],
+    "answer": "Pratibha Patil"
+  },
+  {
+    "id": 22,
+    "question": "What is the minimum age to become a member of the Lok Sabha?",
+    "options": ["21 years", "25 years", "30 years", "35 years"],
+    "answer": "25 years"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is the guardian of the Indian Constitution?",
+    "options": ["Supreme Court", "President", "Parliament", "Prime Minister"],
+    "answer": "Supreme Court"
+  },
+  {
+    "id": 24,
+    "question": "What is the maximum strength of the Lok Sabha?",
+    "options": ["500", "550", "545", "600"],
+    "answer": "545"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is NOT a Union Territory of India?",
+    "options": ["Dadra and Nagar Haveli", "Lakshadweep", "Chandigarh", "Goa"],
+    "answer": "Goa"
+  },
+  {
+    "id": 26,
+    "question": "What is the term of office for the Vice-President of India?",
+    "options": ["5 years", "6 years", "4 years", "7 years"],
+    "answer": "5 years"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is NOT mentioned in the Constitution of India?",
+    "options": ["Preamble", "Directive Principles of State Policy", "Fundamental Rights", "Right to Work"],
+    "answer": "Right to Work"
+  },
+  {
+    "id": 28,
+    "question": "Who appoints the Chief Election Commissioner of India?",
+    "options": ["President of India", "Prime Minister", "Supreme Court", "Election Commission"],
+    "answer": "President of India"
+  },
+  {
+    "id": 29,
+    "question": "Which part of the Constitution of India contains the Fundamental Duties?",
+    "options": ["Part IV", "Part V", "Part IV-A", "Part VI"],
+    "answer": "Part IV-A"
+  },
+  {
+    "id": 30,
+    "question": "Which is the highest law officer in India?",
+    "options": ["Attorney General", "Chief Justice", "Law Minister", "Solicitor General"],
+    "answer": "Attorney General"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a feature of the Indian system of government?",
+    "options": ["Parliamentary System", "Presidential System", "Feudal System", "Monarchical System"],
+    "answer": "Parliamentary System"
+  },
+  {
+    "id": 32,
+    "question": "Which Article of the Indian Constitution grants the Right to Freedom of Speech?",
+    "options": ["Article 21", "Article 19", "Article 14", "Article 32"],
+    "answer": "Article 19"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is NOT a Constitutional body?",
+    "options": ["Election Commission", "Finance Commission", "Supreme Court", "NITI Aayog"],
+    "answer": "NITI Aayog"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is the National Motto of India?",
+    "options": ["Satyamev Jayate", "Jai Hind", "Vande Mataram", "Bharat Mata Ki Jai"],
+    "answer": "Satyamev Jayate"
+  },
+  {
+    "id": 35,
+    "question": "Which body has the power to impeach the President of India?",
+    "options": ["Lok Sabha", "Rajya Sabha", "Parliament", "Supreme Court"],
+    "answer": "Parliament"
+  },
+  {
+    "id": 36,
+    "question": "In which year was the Indian Constitution adopted?",
+    "options": ["1947", "1950", "1949", "1952"],
+    "answer": "1949"
+  },
+  {
+    "id": 37,
+    "question": "What is the primary function of the Parliament of India?",
+    "options": ["Law-making", "Executive control", "Judicial review", "Financial control"],
+    "answer": "Law-making"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is NOT a fundamental duty of citizens in India?",
+    "options": ["Respect the Constitution", "Provide free education", "Promote harmony", "Safeguard public property"],
+    "answer": "Provide free education"
+  },
+  {
+    "id": 39,
+    "question": "Who is the head of the Government in India?",
+    "options": ["President", "Vice-President", "Prime Minister", "Chief Justice"],
+    "answer": "Prime Minister"
+  },
+  {
+    "id": 40,
+    "question": "Who appoints the Governors of Indian states?",
+    "options": ["Prime Minister", "President", "Chief Minister", "Chief Justice"],
+    "answer": "President"
+  }
+]
