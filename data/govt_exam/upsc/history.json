@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first President of India?",
+    "options": ["Rajendra Prasad", "Nehru", "Gandhi", "Patel"],
+    "answer": "Rajendra Prasad"
+  },
+  {
+    "id": 2,
+    "question": "When did India become independent?",
+    "options": ["1945", "1946", "1947", "1950"],
+    "answer": "1947"
+  }
+]
